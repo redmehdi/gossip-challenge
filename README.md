@@ -33,5 +33,5 @@ To compile:
   mvn install
 
 To run:
-  java -jar gossip...jar "Store3 Store1 Store2 Store3" "Store3 Store2 Store3 Store1" "Store4 Store2 Store3 Store4 Store5"
+  java -jar target/gossip...jar "Store3 Store1 Store2 Store3" "Store3 Store2 Store3 Store1" "Store4 Store2 Store3 Store4 Store5"
 
